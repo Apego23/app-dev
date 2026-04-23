@@ -35,5 +35,3 @@ Friendly Neighborhood Hero
 *   I need to highlight these ==essential MCU movies==.
 
 > "Avengers... Assemble!" [^1]
-
-[^1]: The iconic rallying cry first fully delivered in Avengers: Endgame.
