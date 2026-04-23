@@ -20,6 +20,7 @@ Friendly Neighborhood Hero
 - [ ] Spider-Man: No Way Home
 
 ### **Suit Data (JSON)**
+```json
 {
   "suit_name": "Iron Spider",
   "features": ["Nano-tech", "Mechanical Arms"],
