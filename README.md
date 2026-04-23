@@ -17,7 +17,7 @@ Friendly Neighborhood Hero
 ### **The Movie Watchlist**
 - [x] Iron Man (2008) :iron_man:
 - [x] Captain America: The First Avenger
-- [ ] Spider-Man: No Way Home
+- [x] Spider-Man: No Way Home
 
 ### **Suit Data (JSON)**
 ```json
