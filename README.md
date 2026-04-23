@@ -29,7 +29,7 @@ Friendly Neighborhood Hero
 ```
 
 ### **Quick Facts**
-*   Cap's shield is ~~indestructible~~ made of rare Vibranium.
+*   Cap's shield is  made of rare Vibranium.
 *   Tony's heart was powered by an Arc Reactor using Palladium (Pd).
 *   Spider-Man's agility is increased by a factor of 10^2^.
 *   I need to highlight these ==essential MCU movies==.
