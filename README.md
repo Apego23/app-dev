@@ -22,11 +22,22 @@ Friendly Neighborhood Hero
 ### **Suit Data (JSON)**
 ```json
 {
-  "suit_name": "Iron Spider",
-  "features": ["Nano-tech", "Mechanical Arms"],
-  "creator": "Tony Stark"
+  "iron_man": {
+    "suit": "Mark LXXXV",
+    "material": "Nano-gold-titanium alloy"
+     "owner": "Tony Stark"
+  },
+  "captain_america": {
+    "suit": "Scale Armor",
+    "equipment": "Vibranium Shield",
+    "owner": "Steve Rogers"
+  },
+  "spider_man": {
+    "suit": "Integrated Suit",
+    "features": ["Web-wings", "Spider-sense enhancement"]
+      "owner": "Peter Parker"
+  }
 }
-```
 
 ### **Quick Facts**
 *   Cap's shield is  made of rare Vibranium.
